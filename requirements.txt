@@ -1,1 +1,7 @@
-streamlit
+streamlit>=1.34
+pandas>=2.2
+plotly>=5.22
+slack_sdk>=3.27.0
+hume>=0.7.0     # Hume AI SDK for emotion analysis
+openai>=1.30.0   # optional for AI insights
+python-dateutil>=2.9.0.post0
